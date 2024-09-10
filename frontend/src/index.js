@@ -1,6 +1,6 @@
 import React from 'react'
-import HomeHeader from '../HomePage/HomeHeader'
-import './css/index.css'
+import HomeHeader from './components/HomePage/HomeHeader';
+import './index.css'
 
 const index = () => {
   return (
